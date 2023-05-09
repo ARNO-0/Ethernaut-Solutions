@@ -1,4 +1,4 @@
-# Ethernaut ctf solutions
+# Ethernaut Ctf Solutions
 
 
 
